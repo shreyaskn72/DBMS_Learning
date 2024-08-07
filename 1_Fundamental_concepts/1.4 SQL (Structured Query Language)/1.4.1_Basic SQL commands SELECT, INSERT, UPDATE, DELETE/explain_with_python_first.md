@@ -1,4 +1,4 @@
-Certainly! Flask-SQLAlchemy is an extension for Flask that adds SQLAlchemy support, making it easier to work with databases in a Flask web application. SQLAlchemy is an Object Relational Mapper (ORM) that allows you to interact with a database using Python objects rather than writing raw SQL queries. Here’s how the basic SQL commands (`SELECT`, `INSERT`, `UPDATE`, `DELETE`) translate into Flask-SQLAlchemy operations:
+Flask-SQLAlchemy is an extension for Flask that adds SQLAlchemy support, making it easier to work with databases in a Flask web application. SQLAlchemy is an Object Relational Mapper (ORM) that allows you to interact with a database using Python objects rather than writing raw SQL queries. Here’s how the basic SQL commands (`SELECT`, `INSERT`, `UPDATE`, `DELETE`) translate into Flask-SQLAlchemy operations:
 
 ### 1. **`SELECT` Operation**
 

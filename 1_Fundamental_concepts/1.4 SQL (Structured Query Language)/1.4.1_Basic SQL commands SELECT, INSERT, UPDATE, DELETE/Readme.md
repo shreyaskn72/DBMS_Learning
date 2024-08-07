@@ -1,4 +1,4 @@
-Certainly! SQL (Structured Query Language) is used to interact with databases. The basic SQL commands you mentioned are essential for performing various operations on the data stored in a database. Here’s an overview of each:
+SQL (Structured Query Language) is used to interact with databases. The basic SQL commands you mentioned are essential for performing various operations on the data stored in a database. Here’s an overview of each:
 
 ### 1. `SELECT`
 

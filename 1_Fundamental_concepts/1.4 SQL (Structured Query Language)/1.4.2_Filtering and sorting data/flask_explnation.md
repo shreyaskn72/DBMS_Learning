@@ -1,4 +1,4 @@
-Certainly! Flask-SQLAlchemy, an extension for Flask, integrates SQLAlchemy into your Flask application and allows you to perform filtering and sorting operations using Python code rather than raw SQL queries. Below, I'll explain how to filter and sort data with Flask-SQLAlchemy.
+ Flask-SQLAlchemy, an extension for Flask, integrates SQLAlchemy into your Flask application and allows you to perform filtering and sorting operations using Python code rather than raw SQL queries. Below, I'll explain how to filter and sort data with Flask-SQLAlchemy.
 
 ### Setup
 
