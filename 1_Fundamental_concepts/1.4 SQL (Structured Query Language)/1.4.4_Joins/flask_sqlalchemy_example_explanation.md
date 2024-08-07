@@ -1,4 +1,4 @@
-Certainly! Flask-SQLAlchemy, an extension for Flask that integrates SQLAlchemy with Flask applications, allows you to perform various types of joins using Python code. Here's how you can use Flask-SQLAlchemy to perform different types of joins:
+Flask-SQLAlchemy, an extension for Flask that integrates SQLAlchemy with Flask applications, allows you to perform various types of joins using Python code. Here's how you can use Flask-SQLAlchemy to perform different types of joins:
 
 ### Setup
 
